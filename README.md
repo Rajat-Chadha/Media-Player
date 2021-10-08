@@ -7,3 +7,6 @@ two more css files those for to make the pages more responsive and I don't think
 required for these pages are in the "media.zip" you need to extract this file.
 
 
+The project is live at github pages..
+Link-> https://rajat-chadha.github.io/Media-Player/
+
